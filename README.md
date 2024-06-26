@@ -1,2 +1,4 @@
-# binary-heap-emergency-room
-created a simple emergency room management system that can enqueue (add) and dequeue (remove) patients based on their priority. The system should support adding patients with or without a specified priority and ensure that the patient with the highest priority is always dequeued first.
+# Simple Emergency Room
+## Overview
+This project implements an Emergency Room Management System using a Priority Queue to manage patient queues. The system supports two types of data structures to handle the queue: a simple list-based priority queue and a more efficient max-heap-based priority queue. The project includes functionalities for enqueuing and dequeuing patients based on their priority, along with performance comparisons between the two implementations.
+
